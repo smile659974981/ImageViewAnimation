@@ -1,0 +1,2 @@
+# ImageViewAnimation
+利用的UIImageView做帧动画，并利用捆绑文件优化内存
